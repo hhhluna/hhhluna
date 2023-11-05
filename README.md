@@ -2,10 +2,10 @@
 
 <h2>✨ About Me: </h2>
  
- 🌻 I'm a passionate software developer with a love for creating innovative solutions to real-world problems. My journey in the world of coding began when I [mention your initial inspiration or experiences]. Since then, I've been on a continuous quest to explore and expand my skills.
+ 🌻 I'm a passionate software developer with a love for creating innovative solutions to real-world problems. My journey in the world of coding began when I was first exposed to the world of gaming. Since then, I've been on a continuous quest to explore and expand my skills.
 
 
-🌐 I specialize in full-stack web development with expertise in Python, HTML, CSS, and JavaScript.
+🌐 I specialize in Python, HTML, CSS, and JavaScript.
 
 📊 I have a strong foundation in data analysis and research, which I use to derive meaningful insights from complex datasets.
 
@@ -15,7 +15,7 @@
 <h2> 🌱 I'm Currently Learning: </h2>
   🐍 Expanding my Python skills for data science and machine learning applications.
   
-  🧰 Exploring modern front-end technologies like React and improving UI/UX design.
+  🧰 Exploring Gaming, Machine Learning, and AI.
 
 
 <h2>💡 I'm Looking to Collaborate On: </h2>
@@ -50,9 +50,6 @@
    - Joining coding groups or collaborating with other developers.
    - Working on group projects to gain teamwork experience.
 
-  Consultation and Training:
-   - Offer Python consulting services to guide clients on technical decisions, project planning, and best practices.
-   - Provide training and mentorship to individuals or teams learning Python.
 
 <h2> 📫 How to Reach Me: </h2>
 
@@ -76,7 +73,7 @@
 
   Before shifting my career, I worked in the health field for 10 years before I decided to start over and learn coding! It is never too late to pursue the things that make you happy!
 
-  Thank you for visiting my GitHub profile. Please feel free to explore my projects, and if you'd like to collaborate, have questions, or just want to chat about technology, I'm just a message away. Let's connect and build amazing things together!
+  Thank you for visiting my GitHub profile. Please feel free to explore my projects, and if you'd like to collaborate, have questions, or want to chat about technology, I'm just a message away. Let's connect and build amazing things together!
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhhluna&label=Profile%20views&color=0e75b6&style=flat" alt="hhhluna" /> </p>
