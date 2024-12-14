@@ -36,11 +36,6 @@ Before transitioning into software development, I built my problem-solving skill
 
 
 <h2> 📫 How to Reach Me: </h2>
-
-  
-  GitHub: [ Click Here!](https://github.com/hhhluna)
- 
-  LinkedIn: [ Click Here!](www.linkedin.com/in/haya-helen-hani-1179a899)
  
   Email:  hayahelen@gmail.com
 
